@@ -14,7 +14,7 @@ Demo that displays two different 3D visualizations of the human heart (one gener
     * conda install pyqt=4
     * git clone https://github.com/vispy/vispy.git && cd vispy && python3 setup.py install --user
 
-Screenshots (Left: LVall_10_GT, Right: LVall_10_Result)
+# Screenshots (Left: LVall_10_GT, Right: LVall_10_Result)
 
 ![alt text](https://github.com/taekb/medical3D_display/blob/master/screenshots/LVall_10_capture1.png?raw=true)
 
