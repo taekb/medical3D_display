@@ -4,7 +4,7 @@
 
 
 # VisPy Installation Guide 
-* Assuming python3, pip3, git is installed
+* Assuming python3, pip3, git are installed
 * Linux Ubuntu
   
   ```
