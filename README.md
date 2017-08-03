@@ -3,7 +3,8 @@
 * Dependencies: VisPy, PyQt4, h5py, numpy
 
 
-# VisPy Installation Guide (Assuming python3, pip3, git is installed)
+# VisPy Installation Guide 
+* Assuming python3, pip3, git is installed
 * Linux Ubuntu
   
   ```
